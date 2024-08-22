@@ -1,0 +1,25 @@
+body  {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.breadcrumb {
+    color: #565959;
+}
+
+.main-text {
+    margin: 50px;
+}
+
+a {
+    color: #007185;
+}
+
+.img-cover {
+    box-shadow: 0px 2px 5px lightgray;
+}
